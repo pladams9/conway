@@ -1,0 +1,15 @@
+@font-face {
+    font-family: square-font;
+    src: url("square.ttf");
+}
+
+.animate {
+	/*width: 100%;*/
+}
+
+.animate pre {
+	display: inline-block;
+	font-family: square-font;
+	font-size: 7px;
+	background-color: #cd8;
+}
